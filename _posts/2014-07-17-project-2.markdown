@@ -6,6 +6,6 @@ img: bo2 img.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Action 
+category: Action
 description: This is one of my most favourite and valued Cod game which I have probably spent hours on it as a child. I also love how they implemented new zombies maps which are the dlcs, because it made the game alot more unique.
 ---
