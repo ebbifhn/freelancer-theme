@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This is the big city of Tehran, located in the country Iran. I was born and I lived in Tehran for almost 14 years before deciding to move to the United States for my education. The best part about my country has got to be traditional food and the friendly people that live there.
 ---
