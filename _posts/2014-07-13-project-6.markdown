@@ -4,7 +4,7 @@ modal-id: 6
 date: 2014-07-15
 img: IMG_8891.jpeg
 alt: image-alt
-project-date: April 2014
+project-date: November 2022
 client: Start Bootstrap
 category: Web Development
 description: This is me! Not the best photo of myself I know but I couldn't fit it in the profile picture so I just put it here instead.
