@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: One of the fun instuments I have learned throughout the years, is being able to play the acoustic guitar. It relieves my stress and It has made me very creative in creating specific sound riffs. My favourite artists to play are Juice WRLD, Lil peep, Nirvana, and Mac miller.
 ---
